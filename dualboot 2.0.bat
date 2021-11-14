@@ -180,5 +180,5 @@ echo KMLoader.exe successfully launched.
 echo Cleaning up...
 echo Teardown-KNED Dual-Booter finished.
 echo Done! Closing...
-powershell "[console]::beep(1700,200)"
+ping -n 2 localhost > nul
 exit
