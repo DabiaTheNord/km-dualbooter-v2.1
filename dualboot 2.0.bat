@@ -2,6 +2,12 @@
 
 chcp 65001 >nul 2>nul
 
+::   
+::   Uh Oh !
+::   This file is obsolete and is considered abandonware by the creator, Dandyboi. 
+::   Final Version: v2.1
+::   
+
 COLOR 06
 echo Teardown-KNED Dual-Booter 2.1
 ping -n 2 127.0.0.1 > nul
