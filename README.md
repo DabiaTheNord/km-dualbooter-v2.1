@@ -1,5 +1,5 @@
 # Uh Oh! :-(
-ⓘ This file is obsolete and is considered abandonware by the creator, Dandyboi. 
+ⓘ This file is obsolete and is considered abandonware by the creator, DabiaTheNord. 
 
 Reason: `kmod stopped developemnt`
 
